@@ -4,7 +4,7 @@ body {
     font-family: "poppins", sans-serif;
     background-color: #0E1014;
     color: #FFFFFF;
-    font-size: 2.0064rem;
+    font-size: 2rem;
 }
 
 #cabecalho img {
@@ -17,6 +17,14 @@ main {
     align-items: center;
 }
 
+span {
+    color: #9747FF;
+}
+
 .btn {
-    padding: ;
+    text-decoration: none;
+    background-color: #9747FF;
+    color: #FFFFFF;
+    padding: 1rem;
+    border-radius: 40px;
 }
