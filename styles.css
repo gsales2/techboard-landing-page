@@ -1,0 +1,22 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "poppins", sans-serif;
+    background-color: #0E1014;
+    color: #FFFFFF;
+    font-size: 2.0064rem;
+}
+
+#cabecalho img {
+    padding: 2rem;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn {
+    padding: ;
+}
