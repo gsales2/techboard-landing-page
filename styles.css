@@ -34,8 +34,10 @@ span {
     color: #FFFFFF;
     padding: 24px 48px;
     border-radius: 36px;
+    transition: 0.3s;
 }
 
 .btn:hover {
-    
+    background-color: #7523df;
+
 }
